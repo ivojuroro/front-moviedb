@@ -1,0 +1,36 @@
+#card-movie-list-image {
+    height: auto;
+    width: 250px;
+}
+
+#card-movie-list-body{
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+}
+
+#card-movie-list-title{
+    font-size: 20px;
+    margin-bottom: 7px;
+}
+
+#card-movie-list-subtitle{
+    font-style: italic;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+#card-movie-list {
+    border-width: 0px;
+}
+
+#list-item-movie{
+    border: 0px;
+}
+
+#list-group-movie{
+    border-width: 0px;
+}
+
+#container-list-movies{
+    margin-bottom: 30px;
+}

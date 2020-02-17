@@ -1,0 +1,20 @@
+#home-title{
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    color: #3d3d3d;
+    text-align: center;
+    margin-top: 30px ;
+}
+#home-presentation{
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#home-page{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    align-content: center;
+}
